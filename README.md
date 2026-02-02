@@ -1,2 +1,3 @@
-# community
-This repo is for the Interlinked Creations Community to pitch in an idea or report bugs or issues.
+# The Interlinked Creations Community
+
+In this repository, users can report bugs or issues they come across, give ideas for our apps and games, and ask questions on how things work.
